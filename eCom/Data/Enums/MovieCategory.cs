@@ -5,9 +5,11 @@ namespace eCom.Data
 	{
 		Action = 1,
 		Comedy,
-		Darama,
-		Documentary
+		Drama,
+		Documentary,
+        Cartoon,
+        Horror
 
-	}
+    }
 }
 
